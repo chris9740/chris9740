@@ -17,4 +17,7 @@ My name is Christoffer, and I am a 17 year old Javascript developer from Sweden.
     <img src="https://img.shields.io/badge/-VSCode-eee?style=flat-square&logo=visual-studio-code&logoColor=007acc">
     <img src="https://img.shields.io/badge/-Github/Git-eee?style=flat-square&logo=git&logoColor=f34f29">
   </div>
+  <br><br>
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=chris9740&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

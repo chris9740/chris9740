@@ -1,6 +1,6 @@
 # 👋 Welcome to my profile
 
-My name is Christoffer, and I am a 17 year old Javascript developer from Sweden.
+My name is Christoffer, and I am an 18 year old Javascript developer from Sweden.
 <br><br>
 <div class="programming-languages">
   <h1>Programming languages</h1>

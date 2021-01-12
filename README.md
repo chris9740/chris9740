@@ -7,7 +7,6 @@ My name is Christoffer, and I am an 18 year old Javascript developer from Sweden
   <div class="icons">
     <img src="http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python">
     <img src="https://img.shields.io/badge/-Javascript-eee?style=flat-square&logo=javascript&logoColor=e6b609">
-    <img src="https://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php">
   </div>
 </div>
 <div class="os-ide-tools">
